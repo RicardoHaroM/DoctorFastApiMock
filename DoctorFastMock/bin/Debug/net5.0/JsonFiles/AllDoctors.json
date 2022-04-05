@@ -1,0 +1,28 @@
+{
+  "doctors": [
+    {
+      "name": "Gonzalo Vinicio",
+      "lastName": "Plata",
+      "cedula": "1721123214",
+      "specialty": "Cardiologia"
+    },
+    {
+      "name": "Andres",
+      "lastName": "Palacios",
+      "cedula": "1751349873",
+      "specialty": "Pediatria"
+    },
+    {
+      "name": "Juan Carlos",
+      "lastName": "Montenegro",
+      "cedula": "1021453314",
+      "specialty": "Dermatologia"
+    },
+    {
+      "name": "Patricia",
+      "lastName": "Gonzales",
+      "cedula": "1729786451",
+      "specialty": "Cardiologia"
+    }
+  ]
+}
