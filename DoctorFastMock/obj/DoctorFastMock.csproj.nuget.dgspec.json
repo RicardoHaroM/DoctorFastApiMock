@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\DoctorFastMock\\DoctorFastMock\\DoctorFastMock.csproj": {}
+    "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\Mock\\DoctorFastApiMock\\DoctorFastMock\\DoctorFastMock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\DoctorFastMock\\DoctorFastMock\\DoctorFastMock.csproj": {
+    "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\Mock\\DoctorFastApiMock\\DoctorFastMock\\DoctorFastMock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\DoctorFastMock\\DoctorFastMock\\DoctorFastMock.csproj",
+        "projectUniqueName": "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\Mock\\DoctorFastApiMock\\DoctorFastMock\\DoctorFastMock.csproj",
         "projectName": "DoctorFastMock",
-        "projectPath": "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\DoctorFastMock\\DoctorFastMock\\DoctorFastMock.csproj",
+        "projectPath": "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\Mock\\DoctorFastApiMock\\DoctorFastMock\\DoctorFastMock.csproj",
         "packagesPath": "C:\\Users\\RICARDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\DoctorFastMock\\DoctorFastMock\\obj\\",
+        "outputPath": "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\Mock\\DoctorFastApiMock\\DoctorFastMock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RICARDO\\AppData\\Roaming\\NuGet\\NuGet.Config",

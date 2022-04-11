@@ -16,17 +16,26 @@ namespace DoctorFastMock.Controllers
     public class AuthenticationController : ControllerBase
     {
         [HttpPost, Route("/authentication/login")]
-        public loginResponseModel login(loginModel request)
+        public dynamic login(loginModel request)
         {
             dynamic resultado = null;
             if (request.username != null && request.password != null)
             {
-                using (StreamReader rd = new StreamReader(@"./JsonFiles/loginResponse.json"))
+                if (request.username == "Hernesto34" && request.password == "12345678")
                 {
-                    string jsonString = rd.ReadToEnd();
-                    resultado = JsonConvert.DeserializeObject<loginResponseModel>(jsonString);
+                    using (StreamReader rd = new StreamReader(@"./JsonFiles/loginResponse.json"))
+                    {
+                        string jsonString = rd.ReadToEnd();
+                        resultado = JsonConvert.DeserializeObject<loginResponseModel>(jsonString);
 
+                    }
                 }
+                else
+                {
+                    
+                    return BadRequest();
+                }
+                
             }
             
             return resultado;

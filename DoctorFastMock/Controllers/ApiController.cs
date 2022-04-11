@@ -39,5 +39,18 @@ namespace DoctorFastMock.Controllers
             }
             return resultado;
         }
+
+        [HttpGet, Route("/patient/GetPatient")]
+        public PatientModel GetPatient([FromHeader] string JWT)
+        {
+            dynamic resultado;
+            using (StreamReader rd = new StreamReader(@"./JsonFiles/Patient.json"))
+            {
+                string jsonString = rd.ReadToEnd();
+                resultado = JsonConvert.DeserializeObject<PatientModel>(jsonString);
+
+            }
+            return resultado;
+        }
     }
 }

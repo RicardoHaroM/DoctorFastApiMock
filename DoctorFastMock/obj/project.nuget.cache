@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IhGdy+dot5cmjGGH5bRQ8cTyWDGihay+0cGrwhfo6w8DwplJWLaQNUJP6tKu037S4gvZTu8ItN6h5kaJ8G1UoA==",
+  "dgSpecHash": "L3kr3uHVf28phGw0WC5JaCDXaV+Nrg3rSeKzYkxSSpg6f5Ed3wCidoqbIhIg65ZZXP0Zcng9W3RV2JfSYYzpIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\DoctorFastMock\\DoctorFastMock\\DoctorFastMock.csproj",
+  "projectFilePath": "C:\\Users\\RICARDO\\Documents\\PUCE\\6to Semestre\\Desarrollo de aplicaciones\\Mock\\DoctorFastApiMock\\DoctorFastMock\\DoctorFastMock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RICARDO\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\RICARDO\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
